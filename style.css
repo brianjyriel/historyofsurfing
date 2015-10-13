@@ -1,0 +1,40 @@
+title
+{
+  font-family: 'Trebuchet MS', serif;
+  font-size: 45px;
+  text-align: center;
+}
+
+body
+{
+  font-family: 'Trebuchet MS', serif;
+  font-size: 20px;
+  text-shadow: 4px 4px 4px #aaa;
+  text-align: center;
+  color: gold;
+  background-image: url("http://mainbeach.com/wp-content/uploads/2013/08/Surfing-Wallpaper3.jpg");
+}
+h1
+{
+  text-align: center;
+  font-family: 'Rancho', serif;
+  font-size: 45px;
+}
+
+h2
+{
+  text-align: center;
+  font-family: 'Rancho', serif;
+  font-size: 45px;
+
+}
+p
+{
+  color: whitesmoke;
+}
+
+a
+{
+  color: yellow;
+  text-align: center;
+}
